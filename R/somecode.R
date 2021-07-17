@@ -11,6 +11,7 @@ add_two  <-  function(x) {
 
 #' @title Add four!
 #' 
+#' @description Add four, you mo'!
 #' @param x Number to add four to!
 #' @return x + 4
 #' @examples
